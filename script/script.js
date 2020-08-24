@@ -1,6 +1,6 @@
 var button = $('#btn');
 var body = $('body');
-var colors = ['red', 'green', 'blue', 'yellow', 'pink', 'purple', 'teal', 'biege', 'lightblue', 'black']
+var colors = ['red', 'green', 'blue', 'yellow', 'pink', 'purple', 'teal', 'biege', 'lightblue', 'black', 'goldenrod', 'tomato', 'salmon', 'azure', 'lightseagreen']
 
 body.css({
     backgroundColor: 'teal'
