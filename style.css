@@ -1,19 +1,21 @@
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: cursive;
 }
-button{
-    position:absolute;
+
+button {
+    position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     cursor: pointer;
-    background-color:teal;
-    
+    background-color: teal;
+    height: 30px;
     border: 1px solid black;
 }
-button:hover{
-   color: black;
-     border: none;
+
+button:hover {
+    color: black;
+    border: none;
 }
