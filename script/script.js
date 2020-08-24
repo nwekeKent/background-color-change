@@ -11,9 +11,9 @@ function changeBackground() {
     var colorIndex = parseInt(Math.random() * colors.length)
     body.css({
         backgroundColor: colors[colorIndex]
-    })
+    });
 
     button.css({
         backgroundColor: colors[colorIndex]
-    })
+    });
 }
